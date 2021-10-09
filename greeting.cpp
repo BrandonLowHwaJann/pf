@@ -1,3 +1,4 @@
+//BRANDON LOW HWA JANN     1211304278
 #include <iostream>
 using namespace std;
 
@@ -9,7 +10,7 @@ int main(){
    cout << "What is your age: ";
    cin>>age;
    cout << "Hello " << name<<endl;
-   cout << "and you are "<<age<<" years old.";z
+   cout << "and you are "<<age<<" years old.";
    
    return 0;
 }
