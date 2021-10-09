@@ -2,7 +2,10 @@
 using namespace std;
 
 int main(){
-   cout << "Hello world"<< endl;
-
+   string name;
+   cout << "What is your name: "<< endl;
+   cin >> name;
+   cout << "Hello " << name;
+   
    return 0;
 }
